@@ -1,3 +1,3 @@
 # sanyam
 my first program
-author=sanyam
+author=sanyam agarwal
